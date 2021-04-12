@@ -88,3 +88,7 @@ a:hover {
 a:visited {
   color: rgb(7, 0, 55);
 }
+
+footer {
+  padding-bottom: 1em;
+}
