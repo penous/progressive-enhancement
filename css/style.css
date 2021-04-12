@@ -21,16 +21,13 @@ img {
   width: 30%;
   /* height: 30%; */
   float: right;
-  margin: 0.8em;
   position: absolute;
-  top: 0.5em;
-  right: 0.5em;
+  top: 1.2em;
+  right: 0;
 }
 
 p {
   font-family: 'Roboto Slab', serif;
-  /* color: rgb(7, 0, 55); */
-  /* font-size: 1.2em; */
 }
 
 p:first-of-type {
